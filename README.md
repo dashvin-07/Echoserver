@@ -58,10 +58,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 
 ## OUTPUT:
-![alt text](422811639-84533438-45a7-4c14-97cf-8b06aa1bd1d4-2.png)
-![alt text](2-2.png)
-![alt text](3-1.png)
-![alt text](4-1.png)
+
 
 ## RESULT:
 The program is executed successfully

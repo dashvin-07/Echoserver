@@ -58,7 +58,11 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 
 ## OUTPUT:
+![alt text](<Screenshot 2025-04-26 093502.png>)
 
+![alt text](<Screenshot 2025-04-26 093516.png>)
 
+![alt text](<Screenshot 2025-04-26 093529.png>)
+![img](<Screenshot 2025-04-26 093540.png>)
 ## RESULT:
 The program is executed successfully
